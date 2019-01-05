@@ -18,11 +18,12 @@ Software engineer with experience in embedded system, network protocol and secur
 # Experience
 * May. 2018 ~ now, Senior Software Engineer at Moxa inc.
   - Developed security functions on private OS.
-    * Development of LLDP, logging.
-    * Integrated the functions developed by partners.
+    * Developed LLDP function for switch chip.
+    * Developed logging function.
     * Solved the code size issue.
   - Developed TLS connection for private network protocol.
-  - Introduced code review, CI to the team.
+  - Introduced code review, CI(Continuous Integration) to the team.
+  - Project leader of security improvement on NPort 5000 series.
 * Oct. 2015 ~ Apr. 2018, Software Engineer at Moxa inc.
   - Porting mbedtls to FreeRTOS on ARM MCU.
   - Candidate of Red Pig Award. (The internal RD award in Moxa)
@@ -45,7 +46,7 @@ Software engineer with experience in embedded system, network protocol and secur
 * TCP/IP network
 * Network Security
   - Certified Ethical Hacker
-* English / Chinese
+* Chinese / English
 
 # Projects
 * [arm-os-4fun](https://github.com/evshary/arm-os-4fun)
