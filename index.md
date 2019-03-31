@@ -3,6 +3,7 @@ Software engineer with experience in embedded system, network protocol and secur
 
 * blog: [evshary.github.io](https://evshary.github.io)
 * github: [github.com/evshary](https://github.com/evshary)
+* LinkedIn: [www.linkedin.com/in/evshary](https://www.linkedin.com/in/evshary/)
 * mail: evshary(AT)gmail.com
 
 # Education
@@ -37,11 +38,10 @@ Software engineer with experience in embedded system, network protocol and secur
   - Developed IPv6 module on Deep Packet Inspection system.
 
 # Specialties
-* C
+* C, C++, Python
 * Embedded System
   - ARM
-  - FreeRTOS, eCos, private OS
-* Python
+  - FreeRTOS, eCos, Unix-like OS
 * Linux
 * TCP/IP network
 * Network Security
@@ -51,3 +51,6 @@ Software engineer with experience in embedded system, network protocol and secur
 # Projects
 * [arm-os-4fun](https://github.com/evshary/arm-os-4fun)
   - Developed a tiny OS on ARM CortexM to learn ARM architecture and OS concept.
+* Involved in Debian community
+  - Upload [some packages](https://qa.debian.org/developer.php?login=evshary%40gmail.com) to Debian.
+  - Write [tutorial for package upload in Chinese](https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA).
