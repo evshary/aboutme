@@ -23,7 +23,7 @@ Software engineer with experience in embedded system, network protocol and secur
   - Introduced code review, CI(Continuous Integration) to the team.
   - Project leader of security improvement on NPort 5000 series.
     * Developed functions on private OS, such as logging, LLDP.
-    * Pass the security test tools, like Nessus.
+    * Pass the security test tools, like Nessus and Defensics.
     * Solved the code size issue.
 * Oct. 2015 ~ Apr. 2018, Software Engineer at Moxa inc.
   - Porting mbedtls to FreeRTOS on ARM MCU.
@@ -34,7 +34,7 @@ Software engineer with experience in embedded system, network protocol and secur
   - Developed plugin on Java application with JNI.
   - Developed account management on embedded device.
 * Sep. 2013 ~ Sep. 2015, Student in NCKU EE
-  - Developed Netflow Analyzer System.
+  - Developed NetFlow Analyzer System.
   - Developed IPv6 module on Deep Packet Inspection system.
 
 # Specialties
@@ -52,5 +52,5 @@ Software engineer with experience in embedded system, network protocol and secur
 * [arm-os-4fun](https://github.com/evshary/arm-os-4fun)
   - Developed a tiny OS on ARM CortexM to learn ARM architecture and OS concept.
 * Involved in Debian community
-  - Upload [some packages](https://qa.debian.org/developer.php?login=evshary%40gmail.com) to Debian.
-  - Write [tutorial for package upload in Chinese](https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA).
+  - Upload [packages](https://qa.debian.org/developer.php?login=evshary%40gmail.com) to Debian.
+  - Write [tutorial](https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA) for package upload in Chinese.
