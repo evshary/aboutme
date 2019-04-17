@@ -19,23 +19,39 @@ Software engineer with experience in embedded system, network protocol and secur
 # Experience
 * May. 2018 - Now, Senior Software Engineer at Moxa Inc.
   - Maintainer of NPort 5000 series, NPort 6000 series, etc.
-  - Developed TLS connection for private network protocol.
-  - Introduced code review, CI(Continuous Integration) to the team.
+    * Solving problems from customers.
+    * Dealing with the reported security issues.
+    * Arranging schedules and human resources.
   - Project leader of security improvement on NPort 5000 series.
-    * Developed functions on private OS, such as logging, LLDP.
+    * Discussed spec with PM and controlled the progress of project.
     * Pass the security test tools, like Nessus and Defensics.
-    * Solved the code size issue.
+    * Conquered the code size issue which impeded the project.
+  - Volunteered to introduce code review and CI(Continuous Integration) to the team.
 * Oct. 2015 - Apr. 2018, Software Engineer at Moxa Inc.
-  - Porting mbedtls to FreeRTOS on ARM MCU.
   - Candidate of Red Pig Award. (The internal RD award in Moxa)
-  - Porting application(httpd, snmp, etc.) based on lwip and FreeRTOS.
-  - Developed private protocol on RS-485 bus.
-  - Developed CLI tools with private library on Linux.
+  - Solved security issues of NPort reported in [34C3](https://www.youtube.com/watch?v=Itgwb3rn7gE).
+  - Added security connection based on OpenSSL for private network protocol.
+  - Added LLDP function to the product with dual switch port.
+  - Ported mbedtls/application(httpd, snmp, etc.) to FreeRTOS.
+  - Designed private protocol on RS-485 serial bus.
+  - Developed Linux CLI tool for NPort configuration.
   - Developed plugin on Java application with JNI.
-  - Developed account management on embedded device.
+  - Implemented account management on private OS.
 * Sep. 2013 - Sep. 2015, Graduate Student in National Cheng Kung University
   - Developed NetFlow Analyzer System.
-  - Developed IPv6 module on Deep Packet Inspection system.
+  - Added IPv6 module to Deep Packet Inspection system.
+
+# Projects
+* [arm-os-4fun](https://github.com/evshary/arm-os-4fun)
+  - Sep. 2018 - Now
+  - Developing a tiny OS on ARM CortexM with following functions:
+    * context switch between different processes
+    * several system calls
+    * simple malloc and free
+* Involved in Debian community
+  - Oct. 2018 – Now
+  - Uploading [packages](https://qa.debian.org/developer.php?login=evshary%40gmail.com) to Debian.
+  - Writing [tutorial](https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA) about package upload.
 
 # Specialties
 * C, C++, Python
@@ -47,12 +63,3 @@ Software engineer with experience in embedded system, network protocol and secur
 * Network Security
   - Certified Ethical Hacker
 * Chinese / English
-
-# Projects
-* [arm-os-4fun](https://github.com/evshary/arm-os-4fun)
-  - Sep. 2018 - Now
-  - Developed a tiny OS on ARM CortexM to learn ARM architecture and OS concept.
-* Involved in Debian community
-  - Oct. 2018 – Now
-  - Upload [packages](https://qa.debian.org/developer.php?login=evshary%40gmail.com) to Debian.
-  - Write [tutorial](https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA) for package upload in Chinese.
