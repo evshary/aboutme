@@ -30,13 +30,13 @@ Software engineer with experience in embedded system, network protocol and secur
 * Oct. 2015 - Apr. 2018, Software Engineer at Moxa Inc.
   - Candidate of Red Pig Award. (The internal RD award in Moxa)
   - Solved security issues of NPort reported in [34C3](https://www.youtube.com/watch?v=Itgwb3rn7gE).
-  - Appended security connection based on OpenSSL for private network protocol.
+  - Appended security connection based on OpenSSL for proprietary network protocol.
   - Added LLDP function to the product with dual switch port.
   - Ported mbedtls/application(httpd, snmp, etc.) to FreeRTOS.
-  - Designed private protocol on RS-485 serial bus.
+  - Designed proprietary protocol on RS-485 serial bus.
   - Developed Linux CLI tool for NPort configuration.
   - Developed plugin on Java application with JNI.
-  - Developed application(account management, log function, etc.) on private OS.
+  - Developed application(account management, log function, etc.) on proprietary OS.
 * Sep. 2013 - Sep. 2015, Graduate Student in National Cheng Kung University
   - Developed NetFlow Analyzer System.
   - Added IPv6 module to Deep Packet Inspection system.
@@ -57,7 +57,7 @@ Software engineer with experience in embedded system, network protocol and secur
 * C, C++, Python
 * Embedded System
   - ARM
-  - FreeRTOS, eCos, Unix-like private OS
+  - FreeRTOS, eCos, Unix-like proprietary OS
 * Linux
 * TCP/IP network
 * Network Security
