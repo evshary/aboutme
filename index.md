@@ -22,7 +22,7 @@ Software engineer with experience in embedded system, network protocol and secur
     * Solving problems from customers.
     * Dealing with the reported security issues.
     * Arranging schedules and human resources.
-    * Helping to get IPv6 ready logo on [NPort 6150](https://www.ipv6ready.org/db/index.php/public/logo/02-C-001886/).
+    * Participating in getting IPv6 ready logo on [NPort 6150](https://www.ipv6ready.org/db/index.php/public/logo/02-C-001886/).
   - Project leader of security improvement on NPort 5000 series.
     * Discussed spec with PM and monitored the progress of project.
     * Solved the vulnerabilities found by security test tools, like Nessus and Defensics.
