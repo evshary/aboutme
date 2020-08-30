@@ -17,7 +17,10 @@ Software engineer with experience in embedded system, network protocol and secur
 * Sep. 2009 - Jun. 2013
 
 # Experience
-* May. 2018 - Now, Senior Software Engineer at Moxa Inc.
+* Aug. 2019 - Now, Senior Engineer at ADLINK Technology Inc.
+  - Developed application on ROS / ROS 2.
+  - Training instructor for ROS / ROS 2.
+* May. 2018 - Aug. 2019, Senior Software Engineer at Moxa Inc.
   - Maintainer of NPort 5000 series, NPort 6000 series, NPort S8000, NPort S9000, etc.
     * Solving problems from customers.
     * Dealing with the reported security issues.
@@ -56,6 +59,7 @@ Software engineer with experience in embedded system, network protocol and secur
 
 # Specialties
 * C, C++, Python
+* ROS
 * Embedded System
   - ARM
   - FreeRTOS, eCos, Unix-like proprietary OS
