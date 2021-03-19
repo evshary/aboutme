@@ -1,7 +1,7 @@
 # About me
 Software engineer with experience in embedded system, network protocol and security.
 
-* blog: [evshary.github.io](https://evshary.github.io)
+* blog: [evshary.com](https://evshary.com)
 * github: [github.com/evshary](https://github.com/evshary)
 * LinkedIn: [www.linkedin.com/in/evshary](https://www.linkedin.com/in/evshary/)
 * mail: evshary(AT)gmail.com
