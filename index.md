@@ -1,5 +1,5 @@
 # About me
-Software engineer with experience in embedded system, network protocol and security.
+Software engineer with experience in ROS, embedded system, network protocol and security.
 
 * blog: [evshary.com](https://evshary.com)
 * github: [github.com/evshary](https://github.com/evshary)
