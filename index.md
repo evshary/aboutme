@@ -17,9 +17,17 @@ Software engineer with experience in ROS, embedded system, network protocol and 
 * Sep. 2009 - Jun. 2013
 
 # Experience
-* Aug. 2019 - Now, Senior Engineer at ADLINK Technology Inc.
-    * Developed application on ROS / ROS 2.
-    * Training instructor for ROS / ROS 2.
+* Aug. 2019 - Now, Solution Architect at ADLINK Technology Inc.
+    * Developed [Robot Management Tools](https://github.com/Adlink-ROS/RMT-User-Manual).
+    * Developed Neuron SDK for better ROS 2 developing environment.
+      - Including IDE, [App](https://github.com/Adlink-ROS/neuron_app_overview), speical QoS, [library](https://github.com/adlink-ROS/mraa).
+    * Experience in ROS training course.
+      - Helped customers to learn ROS / navigation in a short time.
+      - Lecturer in 2020 Taoyuan ROS summer school.
+    * Helped CycloneDDS to become ROS 2 default DDS.
+      - Solved ROS 2 CI issues while using Eclipse Cylone DDS.
+      - Implemented the POC of [Eclipse Cyclone DDS + Eclipse iceoryx](https://github.com/eclipse-cyclonedds/cyclonedds/blob/iceoryx/docs/manual/shared_memory.rst).
+    * Intalled [ACRN hypervisor on ROScube-I](https://projectacrn.github.io/latest/getting-started/roscube/roscube-gsg.html).
 * May. 2018 - Aug. 2019, Senior Software Engineer at Moxa Inc.
     * Maintainer of NPort 5000 series, NPort 6000 series, NPort S8000, NPort S9000, etc.
         * Solving problems from customers.
@@ -47,19 +55,19 @@ Software engineer with experience in ROS, embedded system, network protocol and 
 
 # Projects
 * [arm-os-4fun](https://github.com/evshary/arm-os-4fun)
-    * Sep. 2018 - Now
+    * Sep. 2018
     * Developing a tiny OS on ARM CortexM with following functions:
         * context switch between different processes
         * several system calls
         * simple malloc and free
 * Involved in Debian community
-    * Oct. 2018 – Now
+    * Oct. 2018
     * Uploading [packages](https://qa.debian.org/developer.php?login=evshary%40gmail.com) to Debian.
     * Writing [tutorial](https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA) about package upload.
 
 # Specialties
 * C, C++, Python
-* ROS
+* ROS / DDS
 * Embedded System
     * ARM
     * FreeRTOS, eCos, Unix-like proprietary OS
@@ -67,4 +75,4 @@ Software engineer with experience in ROS, embedded system, network protocol and 
 * TCP/IP network
 * Network Security
     * Certified Ethical Hacker
-* Chinese / English
+* Mandarin / English
