@@ -18,7 +18,7 @@ Software engineer with experience in ROS, embedded system, network protocol and 
 
 # Experience
 * Aug. 2019 - Now, Solution Architect at ADLINK Technology Inc.
-    * Upraded NVIDIA BSP JetPack 5.0 on ROScube platform.
+    * Upgraded NVIDIA BSP JetPack 5.0 on ROScube platform.
     * Created ROScube software documentation on [GitHub Page](https://adlink-ros.github.io/roscube-doc/index.html)
     * Developed [Robot Management Tools](https://github.com/Adlink-ROS/RMT-User-Manual).
     * Developed Neuron SDK for better ROS 2 developing environment.
@@ -29,7 +29,7 @@ Software engineer with experience in ROS, embedded system, network protocol and 
     * Helped CycloneDDS to become ROS 2 default DDS.
       - Solved ROS 2 CI issues while using Eclipse Cylone DDS.
       - Implemented the POC of [Eclipse Cyclone DDS + Eclipse iceoryx](https://github.com/eclipse-cyclonedds/cyclonedds/blob/iceoryx/docs/manual/shared_memory.rst).
-    * Intalled [ACRN hypervisor on ROScube-I](https://projectacrn.github.io/2.5/getting-started/roscube/roscube-gsg.html).
+    * Installed [ACRN hypervisor on ROScube-I](https://projectacrn.github.io/2.5/getting-started/roscube/roscube-gsg.html).
 * May. 2018 - Aug. 2019, Senior Software Engineer at Moxa Inc.
     * Maintainer of NPort 5000 series, NPort 6000 series, NPort S8000, NPort S9000, etc.
         * Solving problems from customers.
