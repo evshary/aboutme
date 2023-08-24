@@ -18,7 +18,7 @@ Software engineer with experience in ROS, embedded system, network protocol and 
 
 # Experience
 * Sep. 2022 - Now, Autoware FTE at ADLINK Technology Inc.
-    * [Use Zenoh to drive Autoware remotely](https://www.autoware.org/post/driving-autoware-with-zenoh)
+    * [Use Zenoh to drive Autoware remotely](https://autoware.org/driving-autoware-with-zenoh/)
     * [Run multiple Autoware in Carla with Zenoh](https://github.com/orgs/autowarefoundation/discussions/3434)
 * Aug. 2019 - Sep. 2022, Solution Architect at ADLINK Technology Inc.
     * Upgraded NVIDIA BSP JetPack 5.0 on ROScube platform.
