@@ -17,9 +17,11 @@ Software engineer with experience in ROS, embedded system, network protocol and 
 * Sep. 2009 - Jun. 2013
 
 # Experience
+* Jan. 2024 - Now, Solution Architect at ZettaScale Technology
+    * [Integrated Zenoh into uProtocol in Rust](https://github.com/eclipse-uprotocol/up-client-zenoh-rust)
 * Sep. 2022 - Now, Autoware FTE at ADLINK Technology Inc.
     * [Use Zenoh to drive Autoware remotely](https://autoware.org/driving-autoware-with-zenoh/)
-    * [Run multiple Autoware in Carla with Zenoh](https://github.com/orgs/autowarefoundation/discussions/3434)
+    * [Run multiple Autoware in Carla with Zenoh](https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/)
 * Aug. 2019 - Sep. 2022, Solution Architect at ADLINK Technology Inc.
     * Upgraded NVIDIA BSP JetPack 5.0 on ROScube platform.
     * Created ROScube software documentation on [GitHub Page](https://adlink-ros.github.io/roscube-doc/index.html)
@@ -71,8 +73,8 @@ Software engineer with experience in ROS, embedded system, network protocol and 
     * Writing [tutorial](https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA) about package upload.
 
 # Specialties
-* C, C++, Python
-* ROS / DDS
+* Rust, C, C++, Python
+* ROS / Autoware / DDS / Zenoh
 * Embedded System
     * ARM
     * FreeRTOS, eCos, Unix-like proprietary OS
