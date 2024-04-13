@@ -70,9 +70,9 @@ Enjoy working with open-source community.
 * Patents:
     * 2023 - 2024, Software upgrade system, software upgrade method and non-transitory recording medium
         * USA: [US-11928456-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11928456) 
-        * TW: [TW202326414A](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?.2e9f006794001100000000000D2000001000000102^0000001000002000C34baa)
+        * TW: [TW202326414A](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?!!FRURLTW202326414A)
     * 2023, Data synchronization system and method and non-transitory recording medium
-        * TW: [TW202321937A](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?.ceed0673C4003020000000000102000000100000^210000000D00000200904bb0)
+        * TW: [TW202321937A](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?!!FRURLTW202321937A)
     * 2024, [ Software upgrade system, software upgrade method and non-transitory recording medium]()
 * Oct. 2018 - Now, Involved in Debian community
     * Uploading [packages](https://qa.debian.org/developer.php?login=evshary%40gmail.com) to Debian.
