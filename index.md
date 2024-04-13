@@ -65,8 +65,8 @@ Enjoy working with open-source community.
 
 # Experience
 * The speaker in COSCUP
-    * 2023: https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l
-    * 2020: https://youtu.be/Yd8gsksUx0A?si=fBV57luB2-Sulig2
+    * 2023: [How to participate in Autoware community?](https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l)
+    * 2020: [From DDS to ROS2: How ADLINK participates in open-source community](https://youtu.be/Yd8gsksUx0A?si=fBV57luB2-Sulig2)
 * Patents:
     * 2023 - 2024, Software upgrade system, software upgrade method and non-transitory recording medium
         * USA: [US-11928456-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11928456) 
