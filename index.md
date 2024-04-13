@@ -1,5 +1,6 @@
 # About me
-Software engineer with experience in ROS, embedded system, network protocol and security.
+Software engineer with experience in automotives, robotics, embedded system, network protocol and security.
+Enjoy working with open-source community.
 
 * blog: [evshary.com](https://evshary.com)
 * github: [github.com/evshary](https://github.com/evshary)
@@ -16,12 +17,15 @@ Software engineer with experience in ROS, embedded system, network protocol and 
 * Department of Electrical Engineering
 * Sep. 2009 - Jun. 2013
 
-# Experience
+# Employment
 * Jan. 2024 - Now, Solution Architect at ZettaScale Technology
     * [Integrated Zenoh into uProtocol in Rust](https://github.com/eclipse-uprotocol/up-client-zenoh-rust)
+    * Defined [the spec of Zenoh in uProtocol](https://github.com/eclipse-uprotocol/up-spec/blob/main/up-l1/zenoh.adoc)
 * Sep. 2022 - Now, Autoware FTE at ADLINK Technology Inc.
-    * [Use Zenoh to drive Autoware remotely](https://autoware.org/driving-autoware-with-zenoh/)
-    * [Run multiple Autoware in Carla with Zenoh](https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/)
+    * Worked with Autoware community, including meeting and development.
+    * Integrated Zenoh into Autoware and promoted Zenoh.
+        * [Use Zenoh to drive Autoware remotely](https://autoware.org/driving-autoware-with-zenoh/)
+        * [Run multiple Autoware in Carla with Zenoh](https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/)
 * Aug. 2019 - Sep. 2022, Solution Architect at ADLINK Technology Inc.
     * Upgraded NVIDIA BSP JetPack 5.0 on ROScube platform.
     * Created ROScube software documentation on [GitHub Page](https://adlink-ros.github.io/roscube-doc/index.html)
@@ -37,10 +41,9 @@ Software engineer with experience in ROS, embedded system, network protocol and 
     * Installed [ACRN hypervisor on ROScube-I](https://projectacrn.github.io/2.5/getting-started/roscube/roscube-gsg.html).
 * May. 2018 - Aug. 2019, Senior Software Engineer at Moxa Inc.
     * Maintainer of NPort 5000 series, NPort 6000 series, NPort S8000, NPort S9000, etc.
-        * Solving problems from customers.
-        * Dealing with the reported security issues.
-        * Arranging schedules and human resources.
-        * Participating in getting IPv6 ready logo on [NPort 6150](https://www.ipv6ready.org/db/index.php/public/logo/02-C-001886/).
+        * Solved customer's problems and reported security issues.
+        * Arranged schedules and human resources.
+        * Participated in getting IPv6 ready logo on [NPort 6150](https://www.ipv6ready.org/db/index.php/public/logo/02-C-001886/).
     * Project leader of security improvement on NPort 5000 series.
         * Discussed spec with PM and monitored the progress of project.
         * Solved the vulnerabilities found by security test tools, like Nessus and Defensics.
@@ -60,17 +63,28 @@ Software engineer with experience in ROS, embedded system, network protocol and 
     * Developed NetFlow Analyzer System.
     * Added IPv6 module to Deep Packet Inspection system.
 
+# Experience
+* The speaker in COSCUP
+    * 2023: https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l
+    * 2020: https://youtu.be/Yd8gsksUx0A?si=fBV57luB2-Sulig2
+* Patents:
+    * 2023 - 2024, Software upgrade system, software upgrade method and non-transitory recording medium
+        * USA: [US-11928456-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11928456) 
+        * TW: [TW202326414A](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?.2e9f006794001100000000000D2000001000000102^0000001000002000C34baa)
+    * 2023, Data synchronization system and method and non-transitory recording medium
+        * TW: [TW202321937A](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?.ceed0673C4003020000000000102000000100000^210000000D00000200904bb0)
+    * 2024, [ Software upgrade system, software upgrade method and non-transitory recording medium]()
+* Oct. 2018 - Now, Involved in Debian community
+    * Uploading [packages](https://qa.debian.org/developer.php?login=evshary%40gmail.com) to Debian.
+    * Writing [tutorial](https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA) about package upload.
+
 # Projects
-* [arm-os-4fun](https://github.com/evshary/arm-os-4fun)
-    * Sep. 2018
-    * Developing a tiny OS on ARM CortexM with following functions:
+* 2023 - Now, Maintaining the bridge of Autoware and Carla [autoware_carla_launch](https://autoware-carla-launch.readthedocs.io/en/latest/)
+* 2018, Developing a tiny OS [arm-os-4fun](https://github.com/evshary/arm-os-4fun) on ARM CortexM
+    * Including the following functions:
         * context switch between different processes
         * several system calls
         * simple malloc and free
-* Involved in Debian community
-    * Oct. 2018
-    * Uploading [packages](https://qa.debian.org/developer.php?login=evshary%40gmail.com) to Debian.
-    * Writing [tutorial](https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA) about package upload.
 
 # Specialties
 * Rust, C, C++, Python
@@ -83,3 +97,4 @@ Software engineer with experience in ROS, embedded system, network protocol and 
 * Network Security
     * Certified Ethical Hacker
 * Mandarin / English
+
