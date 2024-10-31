@@ -1,4 +1,5 @@
 # About me
+
 Software engineer with experience in automotives, robotics, embedded system, network protocol and security.
 Enjoy working with open-source community.
 
@@ -8,16 +9,20 @@ Enjoy working with open-source community.
 * mail: evshary(AT)gmail.com
 
 # Education
-## M.S. in National Cheng Kung University, Taiwan.
+
+## M.S. in National Cheng Kung University, Taiwan
+
 * Institute of Computer and Communication Engineering
 * Sep. 2013 - Sep. 2015
 * Master Thesis: Design and Implementation of a Network Intrusion Detection System Based on NetFlow
 
-## B.S. in National Cheng Kung University, Taiwan.
+## B.S. in National Cheng Kung University, Taiwan
+
 * Department of Electrical Engineering
 * Sep. 2009 - Jun. 2013
 
 # Employment
+
 * Jan. 2024 - Now, Solution Architect at ZettaScale Technology
     * [Integrated Zenoh into uProtocol in Rust](https://github.com/eclipse-uprotocol/up-client-zenoh-rust)
     * Defined [the spec of Zenoh in uProtocol](https://github.com/eclipse-uprotocol/up-spec/blob/main/up-l1/zenoh.adoc)
@@ -31,13 +36,13 @@ Enjoy working with open-source community.
     * Created ROScube software documentation on [GitHub Page](https://adlink-ros.github.io/roscube-doc/index.html)
     * Developed [Robot Management Tools](https://github.com/Adlink-ROS/RMT-User-Manual).
     * Developed Neuron SDK for better ROS 2 developing environment.
-      - Including IDE, [App](https://github.com/Adlink-ROS/neuron_app_overview), speical QoS, [library](https://github.com/adlink-ROS/mraa).
+        * Including IDE, [App](https://github.com/Adlink-ROS/neuron_app_overview), speical QoS, [library](https://github.com/adlink-ROS/mraa).
     * Experience in ROS training course.
-      - Helped customers to learn ROS / navigation in a short time.
-      - Lecturer in 2020 Taoyuan ROS summer school.
+        * Helped customers to learn ROS / navigation in a short time.
+        * Lecturer in 2020 Taoyuan ROS summer school.
     * Helped CycloneDDS to become ROS 2 default DDS.
-      - Solved ROS 2 CI issues while using Eclipse Cylone DDS.
-      - Implemented the POC of [Eclipse Cyclone DDS + Eclipse iceoryx](https://github.com/eclipse-cyclonedds/cyclonedds/blob/iceoryx/docs/manual/shared_memory.rst).
+        * Solved ROS 2 CI issues while using Eclipse Cylone DDS.
+        * Implemented the POC of [Eclipse Cyclone DDS + Eclipse iceoryx](https://github.com/eclipse-cyclonedds/cyclonedds/blob/iceoryx/docs/manual/shared_memory.rst).
     * Installed [ACRN hypervisor on ROScube-I](https://projectacrn.github.io/2.5/getting-started/roscube/roscube-gsg.html).
 * May. 2018 - Aug. 2019, Senior Software Engineer at Moxa Inc.
     * Maintainer of NPort 5000 series, NPort 6000 series, NPort S8000, NPort S9000, etc.
@@ -64,6 +69,7 @@ Enjoy working with open-source community.
     * Added IPv6 module to Deep Packet Inspection system.
 
 # Experience
+
 * 2024 - Now, [Contributor of Eclipse Zenoh](https://projects.eclipse.org/projects/iot.zenoh/who)
 * 2024 - Now, [Committer of Eclipse uProtocol](https://projects.eclipse.org/projects/automotive.uprotocol/who)
 * The speaker in COSCUP
@@ -71,7 +77,7 @@ Enjoy working with open-source community.
     * 2020: [From DDS to ROS2: How ADLINK participates in open-source community](https://youtu.be/Yd8gsksUx0A?si=fBV57luB2-Sulig2)
 * Patents:
     * 2023 - 2024, Software upgrade system, software upgrade method and non-transitory recording medium
-        * USA: [US-11928456-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11928456) 
+        * USA: [US-11928456-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11928456)
         * TW: [TW202326414A](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?!!FRURLTW202326414A)
     * 2023, Data synchronization system and method and non-transitory recording medium
         * TW: [TW202321937A](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?!!FRURLTW202321937A)
@@ -80,6 +86,7 @@ Enjoy working with open-source community.
     * Writing [tutorial](https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA) about package upload.
 
 # Projects
+
 * 2023 - Now, Maintaining the bridge of Autoware and Carla [autoware_carla_launch](https://autoware-carla-launch.readthedocs.io/en/latest/)
 * 2018, Developing a tiny OS [arm-os-4fun](https://github.com/evshary/arm-os-4fun) on ARM CortexM
     * Including the following functions:
@@ -88,6 +95,7 @@ Enjoy working with open-source community.
         * simple malloc and free
 
 # Specialties
+
 * Rust, C, C++, Python
 * ROS / Autoware / DDS / Zenoh
 * Embedded System
@@ -98,4 +106,3 @@ Enjoy working with open-source community.
 * Network Security
     * Certified Ethical Hacker
 * Mandarin / English
-

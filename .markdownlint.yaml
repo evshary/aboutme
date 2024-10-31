@@ -1,0 +1,8 @@
+{
+  "MD013": false, # Line length limitation
+  "MD033": false, # Enable Inline HTML
+  "MD041": false, # Allow first line heading
+  # Only for this repo (Increase the readability)
+  "MD007": false, # Unordered list indentation
+  "MD025": false, # Multiple top-level headings in the same document
+}
