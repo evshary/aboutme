@@ -64,6 +64,7 @@ Enjoy working with open-source community.
     * Added IPv6 module to Deep Packet Inspection system.
 
 # Experience
+* 2024 - Now, [Contributor of Eclipse Zenoh](https://projects.eclipse.org/projects/iot.zenoh/who)
 * 2024 - Now, [Committer of Eclipse uProtocol](https://projects.eclipse.org/projects/automotive.uprotocol/who)
 * The speaker in COSCUP
     * 2023: [How to participate in Autoware community?](https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l)
