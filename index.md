@@ -24,13 +24,17 @@ Enjoy working with open-source community.
 # Employment
 
 * Jan. 2024 - Now, Solution Architect at ZettaScale Technology
-    * [Integrated Zenoh into uProtocol in Rust](https://github.com/eclipse-uprotocol/up-client-zenoh-rust)
-    * Defined [the spec of Zenoh in uProtocol](https://github.com/eclipse-uprotocol/up-spec/blob/main/up-l1/zenoh.adoc)
+    * uProtocol + Zenoh:
+        * [Integrated Zenoh into uProtocol in Rust](https://github.com/eclipse-uprotocol/up-client-zenoh-rust)
+        * Defined [the spec of Zenoh in uProtocol](https://github.com/eclipse-uprotocol/up-spec/blob/main/up-l1/zenoh.adoc)
+    * ROS 2 + Zenoh:
+        * Support Zenoh 1.0 in rmw_zenoh, including fixing issues in navigation2 and performance benchmark.
 * Sep. 2022 - Now, Autoware FTE at ADLINK Technology Inc.
     * Worked with Autoware community, including meeting and development.
     * Integrated Zenoh into Autoware and promoted Zenoh.
         * [Use Zenoh to drive Autoware remotely](https://autoware.org/driving-autoware-with-zenoh/)
         * [Run multiple Autoware in Carla with Zenoh](https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/)
+        * [A simple demo of the Fleet Management System with Zenoh](https://github.com/orgs/autowarefoundation/discussions/4780)
 * Aug. 2019 - Sep. 2022, Solution Architect at ADLINK Technology Inc.
     * Upgraded NVIDIA BSP JetPack 5.0 on ROScube platform.
     * Created ROScube software documentation on [GitHub Page](https://adlink-ros.github.io/roscube-doc/index.html)
@@ -39,7 +43,7 @@ Enjoy working with open-source community.
         * Including IDE, [App](https://github.com/Adlink-ROS/neuron_app_overview), speical QoS, [library](https://github.com/adlink-ROS/mraa).
     * Experience in ROS training course.
         * Helped customers to learn ROS / navigation in a short time.
-        * Lecturer in 2020 Taoyuan ROS summer school.
+        * Lecturer in [2020](https://www.accupass.com/event/1906030750388632688090), [2021](https://www.accupass.com/event/2105310148261238953848) Taoyuan ROS summer school.
     * Helped CycloneDDS to become ROS 2 default DDS.
         * Solved ROS 2 CI issues while using Eclipse Cylone DDS.
         * Implemented the POC of [Eclipse Cyclone DDS + Eclipse iceoryx](https://github.com/eclipse-cyclonedds/cyclonedds/blob/iceoryx/docs/manual/shared_memory.rst).
@@ -73,7 +77,8 @@ Enjoy working with open-source community.
 * 2024 - Now, [Contributor of Eclipse Zenoh](https://projects.eclipse.org/projects/iot.zenoh/who)
 * 2024 - Now, [Committer of Eclipse uProtocol](https://projects.eclipse.org/projects/automotive.uprotocol/who)
 * The speaker in COSCUP
-    * 2023: [How to participate in Autoware community?](https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l)
+    * 2024: Zenoh: How to bridge different open-source technologies
+    * 2023: [How to participate in Autoware community](https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l)
     * 2020: [From DDS to ROS2: How ADLINK participates in open-source community](https://youtu.be/Yd8gsksUx0A?si=fBV57luB2-Sulig2)
 * Patents:
     * 2023 - 2024, Software upgrade system, software upgrade method and non-transitory recording medium
