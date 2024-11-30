@@ -25,7 +25,7 @@ Enjoy working with open-source community.
 
 * Jan. 2024 - Now, Solution Architect at ZettaScale Technology
     * uProtocol + Zenoh:
-        * [Integrated Zenoh into uProtocol in Rust](https://github.com/eclipse-uprotocol/up-client-zenoh-rust)
+        * [Integrated Zenoh into uProtocol in Rust](https://github.com/eclipse-uprotocol/up-transport-zenoh-rust)
         * Defined [the spec of Zenoh in uProtocol](https://github.com/eclipse-uprotocol/up-spec/blob/main/up-l1/zenoh.adoc)
     * ROS 2 + Zenoh:
         * Support Zenoh 1.0 in rmw_zenoh, including fixing issues in navigation2 and performance benchmark.
@@ -77,7 +77,7 @@ Enjoy working with open-source community.
 * 2024 - Now, [Contributor of Eclipse Zenoh](https://projects.eclipse.org/projects/iot.zenoh/who)
 * 2024 - Now, [Committer of Eclipse uProtocol](https://projects.eclipse.org/projects/automotive.uprotocol/who)
 * The speaker in COSCUP
-    * 2024: Zenoh: How to bridge different open-source technologies
+    * 2024: [Zenoh: How to bridge different open-source technologies](https://youtu.be/x9HjfnzIJYA?si=MXXLlyR4kCw3bAYT)
     * 2023: [How to participate in Autoware community](https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l)
     * 2020: [From DDS to ROS2: How ADLINK participates in open-source community](https://youtu.be/Yd8gsksUx0A?si=fBV57luB2-Sulig2)
 * Patents:
