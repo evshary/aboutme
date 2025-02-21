@@ -34,7 +34,7 @@ Enjoy working with open-source community.
     * Integrated Zenoh into Autoware and promoted Zenoh.
         * [Use Zenoh to drive Autoware remotely](https://autoware.org/driving-autoware-with-zenoh/)
         * [Run multiple Autoware in Carla with Zenoh](https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/)
-        * [A simple demo of the Fleet Management System with Zenoh](https://github.com/orgs/autowarefoundation/discussions/4780)
+        * [Managing Multiple Autoware Vehicles with Zenoh](https://autoware.org/managing-multiple-autoware-vehicles-with-zenoh/)
 * Aug. 2019 - Sep. 2022, Solution Architect at ADLINK Technology Inc.
     * Upgraded NVIDIA BSP JetPack 5.0 on ROScube platform.
     * Created ROScube software documentation on [GitHub Page](https://adlink-ros.github.io/roscube-doc/index.html)
@@ -93,6 +93,10 @@ Enjoy working with open-source community.
 # Projects
 
 * 2023 - Now, Maintaining the bridge of Autoware and Carla [autoware_carla_launch](https://autoware-carla-launch.readthedocs.io/en/latest/)
+    * Including the following scenarios:
+        * Running multiple vehicles
+        * Fleet management system
+        * V2X scenario
 * 2018, Developing a tiny OS [arm-os-4fun](https://github.com/evshary/arm-os-4fun) on ARM CortexM
     * Including the following functions:
         * context switch between different processes
