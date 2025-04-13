@@ -28,13 +28,16 @@ Enjoy working with open-source community.
         * [Integrated Zenoh into uProtocol in Rust](https://github.com/eclipse-uprotocol/up-transport-zenoh-rust)
         * Defined [the spec of Zenoh in uProtocol](https://github.com/eclipse-uprotocol/up-spec/blob/main/up-l1/zenoh.adoc)
     * ROS 2 + Zenoh:
-        * Support Zenoh 1.0 in rmw_zenoh, including fixing issues in navigation2 and performance benchmark.
+        * Support Zenoh 1.x in rmw_zenoh, including fixing issues in navigation2 and performance benchmark.
 * Sep. 2022 - Now, Autoware FTE at ADLINK Technology Inc.
     * Worked with Autoware community, including meeting and development.
     * Integrated Zenoh into Autoware and promoted Zenoh.
         * [Use Zenoh to drive Autoware remotely](https://autoware.org/driving-autoware-with-zenoh/)
         * [Run multiple Autoware in Carla with Zenoh](https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/)
         * [Managing Multiple Autoware Vehicles with Zenoh](https://autoware.org/managing-multiple-autoware-vehicles-with-zenoh/)
+    * Leaded interns to contribute to open-source communities.
+        * [Time-Sensitive Network Tutorial](https://tsn-tutorial.readthedocs.io/en/latest/)
+        * [A simple demo of the Fleet Management System with Zenoh](https://github.com/orgs/autowarefoundation/discussions/4780)
 * Aug. 2019 - Sep. 2022, Solution Architect at ADLINK Technology Inc.
     * Upgraded NVIDIA BSP JetPack 5.0 on ROScube platform.
     * Created ROScube software documentation on [GitHub Page](https://adlink-ros.github.io/roscube-doc/index.html)
