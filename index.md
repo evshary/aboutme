@@ -3,10 +3,10 @@
 Software engineer with experience in automotives, robotics, embedded system, network protocol and security.
 Enjoy working with open-source community.
 
-* blog: [evshary.com](https://evshary.com)
-* github: [github.com/evshary](https://github.com/evshary)
+* Blog: [evshary.com](https://evshary.com)
+* GitHub: [github.com/evshary](https://github.com/evshary)
 * LinkedIn: [www.linkedin.com/in/evshary](https://www.linkedin.com/in/evshary/)
-* mail: evshary(AT)gmail.com
+* Mail: evshary(AT)gmail.com
 
 # Education
 
