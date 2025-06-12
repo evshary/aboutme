@@ -24,20 +24,27 @@ Enjoy working with open-source community.
 # Employment
 
 * Jan. 2024 - Now, Solution Architect at ZettaScale Technology
-    * uProtocol + Zenoh:
+    * Zenoh + uProtocol:
         * [Integrated Zenoh into uProtocol in Rust](https://github.com/eclipse-uprotocol/up-transport-zenoh-rust)
         * Defined [the spec of Zenoh in uProtocol](https://github.com/eclipse-uprotocol/up-spec/blob/main/up-l1/zenoh.adoc)
-    * ROS 2 + Zenoh:
-        * Support Zenoh 1.x in rmw_zenoh, including fixing issues in navigation2 and performance benchmark.
+    * Zenoh + ROS 2:
+        * [Fixed issues and CI on ROS 2 bridge](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds)
+        * [Integrated Zenoh into ROS 2](https://github.com/ros2/rmw_zenoh)
+        * Setup general test environment for the team.
+        * Fixed issues on different ROS 2 packages.
+        * Performance benchmark.
+    * Implemented recording tool for Zenoh.
 * Sep. 2022 - Now, Autoware FTE at ADLINK Technology Inc.
     * Worked with Autoware community, including meeting and development.
     * Integrated Zenoh into Autoware and promoted Zenoh.
         * [Use Zenoh to drive Autoware remotely](https://autoware.org/driving-autoware-with-zenoh/)
         * [Run multiple Autoware in Carla with Zenoh](https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/)
         * [Managing Multiple Autoware Vehicles with Zenoh](https://autoware.org/managing-multiple-autoware-vehicles-with-zenoh/)
+        * [Running Autoware with rmw_zenoh](https://github.com/evshary/autoware_rmw_zenoh)
     * Leaded interns to contribute to open-source communities.
         * [Time-Sensitive Network Tutorial](https://tsn-tutorial.readthedocs.io/en/latest/)
         * [A simple demo of the Fleet Management System with Zenoh](https://github.com/orgs/autowarefoundation/discussions/4780)
+        * [A simple demo of the traffic management system with Zenoh](https://github.com/orgs/autowarefoundation/discussions/6100)
 * Aug. 2019 - Sep. 2022, Solution Architect at ADLINK Technology Inc.
     * Upgraded NVIDIA BSP JetPack 5.0 on ROScube platform.
     * Created ROScube software documentation on [GitHub Page](https://adlink-ros.github.io/roscube-doc/index.html)
