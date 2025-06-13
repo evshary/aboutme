@@ -5,11 +5,163 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>ChenYing Kuo (CY)</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 </head>
 <body>
@@ -17,21 +169,28 @@
 <h1 class="title">ChenYing Kuo (CY)</h1>
 </header>
 <h1 id="about-me">About me</h1>
-<p>Software engineer with experience in automotives, robotics, embedded system, network protocol and security. Enjoy working with open-source community.</p>
+<p>Software engineer with experience in automotives, robotics, embedded
+system, network protocol and security. Enjoy working with open-source
+community.</p>
 <ul>
 <li>Blog: <a href="https://evshary.com">evshary.com</a></li>
-<li>GitHub: <a href="https://github.com/evshary">github.com/evshary</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/evshary/">www.linkedin.com/in/evshary</a></li>
+<li>GitHub: <a
+href="https://github.com/evshary">github.com/evshary</a></li>
+<li>LinkedIn: <a
+href="https://www.linkedin.com/in/evshary/">www.linkedin.com/in/evshary</a></li>
 <li>Mail: evshary(AT)gmail.com</li>
 </ul>
 <h1 id="education">Education</h1>
-<h2 id="m.s.-in-national-cheng-kung-university-taiwan">M.S. in National Cheng Kung University, Taiwan</h2>
+<h2 id="m.s.-in-national-cheng-kung-university-taiwan">M.S. in National
+Cheng Kung University, Taiwan</h2>
 <ul>
 <li>Institute of Computer and Communication Engineering</li>
 <li>Sep. 2013 - Sep. 2015</li>
-<li>Master Thesis: Design and Implementation of a Network Intrusion Detection System Based on NetFlow</li>
+<li>Master Thesis: Design and Implementation of a Network Intrusion
+Detection System Based on NetFlow</li>
 </ul>
-<h2 id="b.s.-in-national-cheng-kung-university-taiwan">B.S. in National Cheng Kung University, Taiwan</h2>
+<h2 id="b.s.-in-national-cheng-kung-university-taiwan">B.S. in National
+Cheng Kung University, Taiwan</h2>
 <ul>
 <li>Department of Electrical Engineering</li>
 <li>Sep. 2009 - Jun. 2013</li>
@@ -40,81 +199,131 @@
 <ul>
 <li>Jan. 2024 - Now, Solution Architect at ZettaScale Technology
 <ul>
-<li>uProtocol + Zenoh:
+<li>Zenoh + uProtocol:
 <ul>
-<li><a href="https://github.com/eclipse-uprotocol/up-transport-zenoh-rust">Integrated Zenoh into uProtocol in Rust</a></li>
-<li>Defined <a href="https://github.com/eclipse-uprotocol/up-spec/blob/main/up-l1/zenoh.adoc">the spec of Zenoh in uProtocol</a></li>
+<li><a
+href="https://github.com/eclipse-uprotocol/up-transport-zenoh-rust">Integrated
+Zenoh into uProtocol in Rust</a></li>
+<li>Defined <a
+href="https://github.com/eclipse-uprotocol/up-spec/blob/main/up-l1/zenoh.adoc">the
+spec of Zenoh in uProtocol</a></li>
 </ul></li>
-<li>ROS 2 + Zenoh:
+<li>Zenoh + ROS 2:
 <ul>
-<li>Support Zenoh 1.x in rmw_zenoh, including fixing issues in navigation2 and performance benchmark.</li>
+<li><a
+href="https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds">Fixed
+issues and CI on ROS 2 bridge</a></li>
+<li><a href="https://github.com/ros2/rmw_zenoh">Integrated Zenoh into
+ROS 2</a></li>
+<li>Setup general test environment for the team.</li>
+<li>Fixed issues on different ROS 2 packages.</li>
+<li>Performance benchmark.</li>
 </ul></li>
+<li>Implemented recording tool for Zenoh.</li>
 </ul></li>
 <li>Sep. 2022 - Now, Autoware FTE at ADLINK Technology Inc.
 <ul>
-<li>Worked with Autoware community, including meeting and development.</li>
+<li>Worked with Autoware community, including meeting and
+development.</li>
 <li>Integrated Zenoh into Autoware and promoted Zenoh.
 <ul>
-<li><a href="https://autoware.org/driving-autoware-with-zenoh/">Use Zenoh to drive Autoware remotely</a></li>
-<li><a href="https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/">Run multiple Autoware in Carla with Zenoh</a></li>
-<li><a href="https://autoware.org/managing-multiple-autoware-vehicles-with-zenoh/">Managing Multiple Autoware Vehicles with Zenoh</a></li>
+<li><a href="https://autoware.org/driving-autoware-with-zenoh/">Use
+Zenoh to drive Autoware remotely</a></li>
+<li><a
+href="https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/">Run
+multiple Autoware in Carla with Zenoh</a></li>
+<li><a
+href="https://autoware.org/managing-multiple-autoware-vehicles-with-zenoh/">Managing
+Multiple Autoware Vehicles with Zenoh</a></li>
+<li><a href="https://github.com/evshary/autoware_rmw_zenoh">Running
+Autoware with rmw_zenoh</a></li>
 </ul></li>
 <li>Leaded interns to contribute to open-source communities.
 <ul>
-<li><a href="https://tsn-tutorial.readthedocs.io/en/latest/">Time-Sensitive Network Tutorial</a></li>
-<li><a href="https://github.com/orgs/autowarefoundation/discussions/4780">A simple demo of the Fleet Management System with Zenoh</a></li>
+<li><a
+href="https://tsn-tutorial.readthedocs.io/en/latest/">Time-Sensitive
+Network Tutorial</a></li>
+<li><a
+href="https://github.com/orgs/autowarefoundation/discussions/4780">A
+simple demo of the Fleet Management System with Zenoh</a></li>
+<li><a
+href="https://github.com/orgs/autowarefoundation/discussions/6100">A
+simple demo of the traffic management system with Zenoh</a></li>
 </ul></li>
 </ul></li>
 <li>Aug. 2019 - Sep. 2022, Solution Architect at ADLINK Technology Inc.
 <ul>
 <li>Upgraded NVIDIA BSP JetPack 5.0 on ROScube platform.</li>
-<li>Created ROScube software documentation on <a href="https://adlink-ros.github.io/roscube-doc/index.html">GitHub Page</a></li>
-<li>Developed <a href="https://github.com/Adlink-ROS/RMT-User-Manual">Robot Management Tools</a>.</li>
+<li>Created ROScube software documentation on <a
+href="https://adlink-ros.github.io/roscube-doc/index.html">GitHub
+Page</a></li>
+<li>Developed <a
+href="https://github.com/Adlink-ROS/RMT-User-Manual">Robot Management
+Tools</a>.</li>
 <li>Developed Neuron SDK for better ROS 2 developing environment.
 <ul>
-<li>Including IDE, <a href="https://github.com/Adlink-ROS/neuron_app_overview">App</a>, speical QoS, <a href="https://github.com/adlink-ROS/mraa">library</a>.</li>
+<li>Including IDE, <a
+href="https://github.com/Adlink-ROS/neuron_app_overview">App</a>,
+speical QoS, <a
+href="https://github.com/adlink-ROS/mraa">library</a>.</li>
 </ul></li>
 <li>Experience in ROS training course.
 <ul>
 <li>Helped customers to learn ROS / navigation in a short time.</li>
-<li>Lecturer in <a href="https://www.accupass.com/event/1906030750388632688090">2020</a>, <a href="https://www.accupass.com/event/2105310148261238953848">2021</a> Taoyuan ROS summer school.</li>
+<li>Lecturer in <a
+href="https://www.accupass.com/event/1906030750388632688090">2020</a>,
+<a href="https://www.accupass.com/event/2105310148261238953848">2021</a>
+Taoyuan ROS summer school.</li>
 </ul></li>
 <li>Helped CycloneDDS to become ROS 2 default DDS.
 <ul>
 <li>Solved ROS 2 CI issues while using Eclipse Cylone DDS.</li>
-<li>Implemented the POC of <a href="https://github.com/eclipse-cyclonedds/cyclonedds/blob/iceoryx/docs/manual/shared_memory.rst">Eclipse Cyclone DDS + Eclipse iceoryx</a>.</li>
+<li>Implemented the POC of <a
+href="https://github.com/eclipse-cyclonedds/cyclonedds/blob/iceoryx/docs/manual/shared_memory.rst">Eclipse
+Cyclone DDS + Eclipse iceoryx</a>.</li>
 </ul></li>
-<li>Installed <a href="https://projectacrn.github.io/2.5/getting-started/roscube/roscube-gsg.html">ACRN hypervisor on ROScube-I</a>.</li>
+<li>Installed <a
+href="https://projectacrn.github.io/2.5/getting-started/roscube/roscube-gsg.html">ACRN
+hypervisor on ROScube-I</a>.</li>
 </ul></li>
 <li>May. 2018 - Aug. 2019, Senior Software Engineer at Moxa Inc.
 <ul>
-<li>Maintainer of NPort 5000 series, NPort 6000 series, NPort S8000, NPort S9000, etc.
+<li>Maintainer of NPort 5000 series, NPort 6000 series, NPort S8000,
+NPort S9000, etc.
 <ul>
 <li>Solved customer’s problems and reported security issues.</li>
 <li>Arranged schedules and human resources.</li>
-<li>Participated in getting IPv6 ready logo on <a href="https://www.ipv6ready.org/db/index.php/public/logo/02-C-001886/">NPort 6150</a>.</li>
+<li>Participated in getting IPv6 ready logo on <a
+href="https://www.ipv6ready.org/db/index.php/public/logo/02-C-001886/">NPort
+6150</a>.</li>
 </ul></li>
 <li>Project leader of security improvement on NPort 5000 series.
 <ul>
 <li>Discussed spec with PM and monitored the progress of project.</li>
-<li>Solved the vulnerabilities found by security test tools, like Nessus and Defensics.</li>
+<li>Solved the vulnerabilities found by security test tools, like Nessus
+and Defensics.</li>
 <li>Overcame the code size issue which disturbed the project.</li>
 </ul></li>
-<li>Volunteered to introduce code review and CI(Continuous Integration) to the team.</li>
+<li>Volunteered to introduce code review and CI(Continuous Integration)
+to the team.</li>
 </ul></li>
 <li>Oct. 2015 - Apr. 2018, Software Engineer at Moxa Inc.
 <ul>
 <li>Candidate of Red Pig Award. (The internal RD award in Moxa)</li>
-<li>Solved security issues of NPort reported in <a href="https://www.youtube.com/watch?v=Itgwb3rn7gE">34C3</a>.</li>
-<li>Appended security connection based on OpenSSL for proprietary network protocol.</li>
+<li>Solved security issues of NPort reported in <a
+href="https://www.youtube.com/watch?v=Itgwb3rn7gE">34C3</a>.</li>
+<li>Appended security connection based on OpenSSL for proprietary
+network protocol.</li>
 <li>Added LLDP function to the product with dual switch port.</li>
 <li>Ported mbedtls/application(httpd, snmp, etc.) to FreeRTOS.</li>
 <li>Designed proprietary protocol on RS-485 serial bus.</li>
 <li>Developed Linux CLI tool for NPort configuration.</li>
 <li>Developed plugin on Java application with JNI.</li>
-<li>Developed application(account management, log function, etc.) on proprietary OS.</li>
+<li>Developed application(account management, log function, etc.) on
+proprietary OS.</li>
 </ul></li>
-<li>Sep. 2013 - Sep. 2015, Graduate Student in National Cheng Kung University
+<li>Sep. 2013 - Sep. 2015, Graduate Student in National Cheng Kung
+University
 <ul>
 <li>Developed NetFlow Analyzer System.</li>
 <li>Added IPv6 module to Deep Packet Inspection system.</li>
@@ -122,35 +331,54 @@
 </ul>
 <h1 id="experience">Experience</h1>
 <ul>
-<li>2024 - Now, <a href="https://projects.eclipse.org/projects/iot.zenoh/who">Contributor of Eclipse Zenoh</a></li>
-<li>2024 - Now, <a href="https://projects.eclipse.org/projects/automotive.uprotocol/who">Committer of Eclipse uProtocol</a></li>
+<li>2024 - Now, <a
+href="https://projects.eclipse.org/projects/iot.zenoh/who">Contributor
+of Eclipse Zenoh</a></li>
+<li>2024 - Now, <a
+href="https://projects.eclipse.org/projects/automotive.uprotocol/who">Committer
+of Eclipse uProtocol</a></li>
 <li>The speaker in COSCUP
 <ul>
-<li>2024: <a href="https://youtu.be/x9HjfnzIJYA?si=MXXLlyR4kCw3bAYT">Zenoh: How to bridge different open-source technologies</a></li>
-<li>2023: <a href="https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l">How to participate in Autoware community</a></li>
-<li>2020: <a href="https://youtu.be/Yd8gsksUx0A?si=fBV57luB2-Sulig2">From DDS to ROS2: How ADLINK participates in open-source community</a></li>
+<li>2024: <a
+href="https://youtu.be/x9HjfnzIJYA?si=MXXLlyR4kCw3bAYT">Zenoh: How to
+bridge different open-source technologies</a></li>
+<li>2023: <a href="https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l">How
+to participate in Autoware community</a></li>
+<li>2020: <a
+href="https://youtu.be/Yd8gsksUx0A?si=fBV57luB2-Sulig2">From DDS to
+ROS2: How ADLINK participates in open-source community</a></li>
 </ul></li>
 <li>Patents:
 <ul>
-<li>2023 - 2024, Software upgrade system, software upgrade method and non-transitory recording medium
+<li>2023 - 2024, Software upgrade system, software upgrade method and
+non-transitory recording medium
 <ul>
-<li>USA: <a href="https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11928456">US-11928456-B2</a></li>
-<li>TW: <a href="https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?!!FRURLTW202326414A">TW202326414A</a></li>
+<li>USA: <a
+href="https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11928456">US-11928456-B2</a></li>
+<li>TW: <a
+href="https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?!!FRURLTW202326414A">TW202326414A</a></li>
 </ul></li>
-<li>2023, Data synchronization system and method and non-transitory recording medium
+<li>2023, Data synchronization system and method and non-transitory
+recording medium
 <ul>
-<li>TW: <a href="https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?!!FRURLTW202321937A">TW202321937A</a></li>
+<li>TW: <a
+href="https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?!!FRURLTW202321937A">TW202321937A</a></li>
 </ul></li>
 </ul></li>
 <li>Oct. 2018 - Now, Involved in Debian community
 <ul>
-<li>Uploading <a href="https://qa.debian.org/developer.php?login=evshary%40gmail.com">packages</a> to Debian.</li>
-<li>Writing <a href="https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA">tutorial</a> about package upload.</li>
+<li>Uploading <a
+href="https://qa.debian.org/developer.php?login=evshary%40gmail.com">packages</a>
+to Debian.</li>
+<li>Writing <a
+href="https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA">tutorial</a> about
+package upload.</li>
 </ul></li>
 </ul>
 <h1 id="projects">Projects</h1>
 <ul>
-<li>2023 - Now, Maintaining the bridge of Autoware and Carla <a href="https://autoware-carla-launch.readthedocs.io/en/latest/">autoware_carla_launch</a>
+<li>2023 - Now, Maintaining the bridge of Autoware and Carla <a
+href="https://autoware-carla-launch.readthedocs.io/en/latest/">autoware_carla_launch</a>
 <ul>
 <li>Including the following scenarios:
 <ul>
@@ -159,7 +387,9 @@
 <li>V2X scenario</li>
 </ul></li>
 </ul></li>
-<li>2018, Developing a tiny OS <a href="https://github.com/evshary/arm-os-4fun">arm-os-4fun</a> on ARM CortexM
+<li>2018, Developing a tiny OS <a
+href="https://github.com/evshary/arm-os-4fun">arm-os-4fun</a> on ARM
+CortexM
 <ul>
 <li>Including the following functions:
 <ul>
