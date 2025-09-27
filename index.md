@@ -31,9 +31,10 @@ Enjoy working with open-source community.
         * [Fixed issues and CI on ROS 2 bridge](https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds)
         * [Integrated Zenoh into ROS 2](https://github.com/ros2/rmw_zenoh)
         * Setup general test environment for the team.
-        * Fixed issues on different ROS 2 packages.
+        * Fixed issues on different ROS 2 packages with rmw_zenoh.
         * Performance benchmark.
-    * Implemented recording tool for Zenoh.
+        * Implemented [zenoh-ros-examples](https://github.com/ZettaScaleLabs/zenoh-ros-examples) for pure Zenoh communication with ROS 2.
+    * Implemented a record and replay tool for Zenoh.
 * Sep. 2022 - Now, Autoware FTE at ADLINK Technology Inc.
     * Worked with Autoware community, including meeting and development.
     * Integrated Zenoh into Autoware and promoted Zenoh.
@@ -41,10 +42,12 @@ Enjoy working with open-source community.
         * [Run multiple Autoware in Carla with Zenoh](https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/)
         * [Managing Multiple Autoware Vehicles with Zenoh](https://autoware.org/managing-multiple-autoware-vehicles-with-zenoh/)
         * [Running Autoware with rmw_zenoh](https://github.com/evshary/autoware_rmw_zenoh)
+        * [End-to-end VisionPilot with Zenoh](https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/software-configuration/zenoh/)
     * Leaded interns to contribute to open-source communities.
         * [Time-Sensitive Network Tutorial](https://tsn-tutorial.readthedocs.io/en/latest/)
         * [A simple demo of the Fleet Management System with Zenoh](https://github.com/orgs/autowarefoundation/discussions/4780)
         * [A simple demo of the traffic management system with Zenoh](https://github.com/orgs/autowarefoundation/discussions/6100)
+    * Cohosted the [Reference Design Working Group](https://github.com/autowarefoundation/autoware-projects/wiki/Autoware-Reference-Design-Working-Group)
 * Aug. 2019 - Sep. 2022, Solution Architect at ADLINK Technology Inc.
     * Upgraded NVIDIA BSP JetPack 5.0 on ROScube platform.
     * Created ROScube software documentation on [GitHub Page](https://adlink-ros.github.io/roscube-doc/index.html)
@@ -86,22 +89,29 @@ Enjoy working with open-source community.
 
 * 2024 - Now, [Contributor of Eclipse Zenoh](https://projects.eclipse.org/projects/iot.zenoh/who)
 * 2024 - Now, [Committer of Eclipse uProtocol](https://projects.eclipse.org/projects/automotive.uprotocol/who)
-* The speaker in COSCUP
+* The speaker at ROS Taiwan
+    * 2025: Why ROS 2 adopts Zenoh
+* The speaker at AutowareCon
+    * 2025: [Zenoh: A New Communication Stack for Autoware](https://www.youtube.com/live/-ekzcaOAL7Q?si=CfEoPm7Ggwcbw6j4&t=7275)
+* The speaker at COSCUP
+    * 2025: How to make money with open-source sortwares
     * 2024: [Zenoh: How to bridge different open-source technologies](https://youtu.be/x9HjfnzIJYA?si=MXXLlyR4kCw3bAYT)
     * 2023: [How to participate in Autoware community](https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l)
     * 2020: [From DDS to ROS2: How ADLINK participates in open-source community](https://youtu.be/Yd8gsksUx0A?si=fBV57luB2-Sulig2)
 * Patents:
     * 2023 - 2024, Software upgrade system, software upgrade method and non-transitory recording medium
-        * USA: [US-11928456-B2](https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11928456)
-        * TW: [TW202326414A](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?!!FRURLTW202326414A)
+        * USA: US-11928456-B2
+        * TW: TW202326414A
     * 2023, Data synchronization system and method and non-transitory recording medium
-        * TW: [TW202321937A](https://gpss3.tipo.gov.tw/gpsskmc/gpssbkm?!!FRURLTW202321937A)
+        * TW: TW202321937A
 * Oct. 2018 - Now, Involved in Debian community
     * Uploading [packages](https://qa.debian.org/developer.php?login=evshary%40gmail.com) to Debian.
     * Writing [tutorial](https://hackmd.io/zjBAekZBTkS6_4gh0uvtQA) about package upload.
 
 # Projects
 
+* [ROS 2 tutorial](https://ros2.tw/): A tutorial mainly target on ROS 2, including DDS, Zenoh, and Autoware.
+* [awesome-autoware](https://github.com/evshary/awesome-autoware): A curated list for of awesome Autoware resources and librarys.
 * 2023 - Now, Maintaining the bridge of Autoware and Carla [autoware_carla_launch](https://autoware-carla-launch.readthedocs.io/en/latest/)
     * Including the following scenarios:
         * Running multiple vehicles
