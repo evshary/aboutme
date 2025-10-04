@@ -90,19 +90,19 @@ Enjoy working with open-source community.
 * 2024 - Now, [Contributor of Eclipse Zenoh](https://projects.eclipse.org/projects/iot.zenoh/who)
 * 2024 - Now, [Committer of Eclipse uProtocol](https://projects.eclipse.org/projects/automotive.uprotocol/who)
 * The speaker at ROS Taiwan
-    * 2025: Why ROS 2 adopts Zenoh
+    * 2025: [Why ROS 2 adopts Zenoh](https://youtu.be/uJP2CuZ6VDE?si=ePNW9IVZv82RvyzN)
 * The speaker at AutowareCon
     * 2025: [Zenoh: A New Communication Stack for Autoware](https://www.youtube.com/live/-ekzcaOAL7Q?si=CfEoPm7Ggwcbw6j4&t=7275)
 * The speaker at COSCUP
-    * 2025: How to make money with open-source sortwares
+    * 2025: How to make money with open-source software
     * 2024: [Zenoh: How to bridge different open-source technologies](https://youtu.be/x9HjfnzIJYA?si=MXXLlyR4kCw3bAYT)
     * 2023: [How to participate in Autoware community](https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l)
     * 2020: [From DDS to ROS2: How ADLINK participates in open-source community](https://youtu.be/Yd8gsksUx0A?si=fBV57luB2-Sulig2)
 * Patents:
-    * 2023 - 2024, Software upgrade system, software upgrade method and non-transitory recording medium
+    * 2023 - 2024, Software upgrade system, software upgrade method, and non-transitory recording medium
         * USA: US-11928456-B2
         * TW: TW202326414A
-    * 2023, Data synchronization system and method and non-transitory recording medium
+    * 2023, Data synchronization system and method, and non-transitory recording medium
         * TW: TW202321937A
 * Oct. 2018 - Now, Involved in Debian community
     * Uploading [packages](https://qa.debian.org/developer.php?login=evshary%40gmail.com) to Debian.
