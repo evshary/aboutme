@@ -94,7 +94,7 @@ Enjoy working with open-source community.
 * The speaker at AutowareCon
     * 2025: [Zenoh: A New Communication Stack for Autoware](https://www.youtube.com/live/-ekzcaOAL7Q?si=CfEoPm7Ggwcbw6j4&t=7275)
 * The speaker at COSCUP
-    * 2025: How to make money with open-source software
+    * 2025: [How to make money with open-source software](https://youtu.be/YoVFu0INXH8?si=7UELda8ZH28dNbre)
     * 2024: [Zenoh: How to bridge different open-source technologies](https://youtu.be/x9HjfnzIJYA?si=MXXLlyR4kCw3bAYT)
     * 2023: [How to participate in Autoware community](https://youtu.be/vzsonpzmvxY?si=h91taU51ni83b18l)
     * 2020: [From DDS to ROS2: How ADLINK participates in open-source community](https://youtu.be/Yd8gsksUx0A?si=fBV57luB2-Sulig2)
