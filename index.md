@@ -34,8 +34,9 @@ Enjoy working with open-source community.
         * Fixed issues on different ROS 2 packages with rmw_zenoh.
         * Performance benchmark.
         * Implemented [zenoh-ros-examples](https://github.com/ZettaScaleLabs/zenoh-ros-examples) for pure Zenoh communication with ROS 2.
+        * Implemented [rmw-zenoh-mcap-writer](https://github.com/ZettaScaleLabs/rmw-zenoh-mcap-writer) for recording the rmw_zenoh messages with pure Zenoh.
     * Implemented a record and replay tool for Zenoh.
-* Sep. 2022 - Now, Autoware FTE at ADLINK Technology Inc.
+* Sep. 2022 - Now, Autoware technical representative at ADLINK Technology Inc.
     * Worked with Autoware community, including meeting and development.
     * Integrated Zenoh into Autoware and promoted Zenoh.
         * [Use Zenoh to drive Autoware remotely](https://autoware.org/driving-autoware-with-zenoh/)
@@ -47,6 +48,7 @@ Enjoy working with open-source community.
         * [Time-Sensitive Network Tutorial](https://tsn-tutorial.readthedocs.io/en/latest/)
         * [A simple demo of the Fleet Management System with Zenoh](https://github.com/orgs/autowarefoundation/discussions/4780)
         * [A simple demo of the traffic management system with Zenoh](https://github.com/orgs/autowarefoundation/discussions/6100)
+        * [zenoh-bridge demo in Open AD Kit](https://autowarefoundation.github.io/openadkit/deployments/zenoh-bridge/)
     * Cohosted the [Reference Design Working Group](https://github.com/autowarefoundation/autoware-projects/wiki/Autoware-Reference-Design-Working-Group)
 * Aug. 2019 - Sep. 2022, Solution Architect at ADLINK Technology Inc.
     * Upgraded NVIDIA BSP JetPack 5.0 on ROScube platform.
