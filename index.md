@@ -35,7 +35,9 @@ Enjoy working with open-source community.
         * Performance benchmark.
         * Implemented [zenoh-ros-examples](https://github.com/ZettaScaleLabs/zenoh-ros-examples) for pure Zenoh communication with ROS 2.
         * Implemented [rmw-zenoh-mcap-writer](https://github.com/ZettaScaleLabs/rmw-zenoh-mcap-writer) for recording the rmw_zenoh messages with pure Zenoh.
-    * Implemented a record and replay tool for Zenoh.
+    * Zenoh Development:
+        * Implemented a record and replay tool for Zenoh.
+        * Implemented feature and improved the test framework for Zenoh.
 * Sep. 2022 - Now, Autoware technical representative at ADLINK Technology Inc.
     * Worked with Autoware community, including meeting and development.
     * Integrated Zenoh into Autoware and promoted Zenoh.
